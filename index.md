@@ -104,7 +104,7 @@
   <div class="pimg2" id="skills">
     <div class="ptext">
       <span class="border trans">
-        My Skills and Expertise
+        My Skills and Expertise are
       </span>
     </div>
   </div>
