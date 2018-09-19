@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Soumya Ranjan Mohanty</title>
+  <title>Kashif Abid</title>
   <link rel="stylesheet" href="css/style.css">
   <script defer src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
@@ -18,7 +18,7 @@
 
 <body>
   <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-    <a class="navbar-brand" href="#">geekySRM</a>
+    <a class="navbar-brand" href="#">KashifAbid</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse"
       aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
@@ -55,38 +55,32 @@
     <br>
     <br>
     <div class="image-container">
-      <img src="./img/my-pic.jpg" id="mypic" alt="Soumya Ranjan Mohanty">
+      <img src="./img/" id="mypic" alt="Kashif Abid">
     </div>
     <div class="ptext">
       <br>
       <span class="border">
-        Soumya Ranjan Mohanty
+        Kashif Abid
       </span>
       <br>
       <br>
       <div>
       <span class="subtitle">
-         A security-savvy web developer
+         A Security Geek & Web Developer
       </span>
       
       </div>
       <br>
 
       <div class="social-icons">
-        <a href="https://linkedin.com/in/geekysrm" target="_blank" class="linkedin social-item">
+        <a href="https://linkedin.com/in/kashifsohailabid" target="_blank" class="linkedin social-item">
           <i class="fab fa-lg fa-linkedin"></i>
         </a>
-        <a href="https://github.com/geekysrm" target="_blank" class="github social-item">
+        <a href="https://github.com/Kashifabid1106" target="_blank" class="github social-item">
           <i class="fab fa-lg fa-github"></i>
         </a>
-        <a href="https://twitter.com/SoumyaRnMohanty" target="_blank" class="twitter social-item">
+        <a href="https://twitter.com/kashifabi" target="_blank" class="twitter social-item">
           <i class="fab fa-lg fa-twitter-square"></i>
-        </a>
-        <a href="https://medium.com/@geekysrm" target="_blank" class="github social-item">
-          <i class="fab fa-lg fa-medium"></i>
-        </a>
-        <a href="https://fb.com/geekysrm" target="_blank" class="facebook social-item">
-          <i class="fab fa-lg fa-facebook-square"></i>
         </a>
       </div>
       
@@ -97,10 +91,10 @@
   <section class="section section-light" id="whoiam">
     <h2>Who I am</h2>
     <p id="para-whoiam">
-    Hi, <i>you!</i> <br> I am <b>Soumya Ranjan Mohanty</b>, a security enthusiast, an aspiring full-stack web developer and entrepreneur.
-    I am currently a sophomore in Computer Science Engineering at <a href="https://www.iiit-bh.ac.in" target="_blank">IIIT Bhubaneswar</a> . 
+    Hi, <i>you!</i> <br> I am <b>Kashif Abid</b>, a penetration tester, a full-stack web developer and an entrepreneur.
+    I am a Computer Science Engineering student from National University of Science and Technology <a href="https://seecs.edu.pk" target="_blank">NUST, Pakistan</a> . 
     <br>
-    I love coding and code almost daily. I have special interest in information and network security. 
+    I love coffee, security, architecture of applications and coding . I have special interest in information and network security. 
     I have knowledge of various web technologies and have some projects to my name.
   <br>
   I love writing and I maintain a <a href="https://geekysrm.github.io/blog" target="_blank">blog</a> where I write about tech.  
