@@ -15,7 +15,7 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p>Kashif Abid</p> <p>Co-founder of https://www.standuphuman.org</p>
+     <p>Kashif Abid</p> <p>Co-founder of <a href="https://www.standuphuman.org">Stand up human</a></p>
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    Powered by Redbull:p </a>
