@@ -17,7 +17,9 @@ I have about one decade of professional experience in Project management, softwa
 On slightly less geeky notes, Below are some random facts
 
 <b>Random facts</b>
-I drink a lot of tea
-I love interior design
-I love to cook (and eat)
-I'm a bit of a clean freak
+<ul style="list-style: none;">
+<li>I drink a lot of tea</li>
+<li>I love interior design</li>
+<li>I love to cook (and eat)</li>
+<li>I'm a bit of a clean freak</li>
+</ul>
