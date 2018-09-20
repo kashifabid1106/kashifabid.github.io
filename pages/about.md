@@ -5,8 +5,8 @@ permalink: /about/
 feature-img: "assets/img/pexels/circuit.jpeg"
 tags: [About, Archive]
 ---
-<h2>"I want to"  <span class="teal">make things</span><br>
-"that" <span class="underline">make a difference</span>.</h2>
+<h2>I want to <span class="teal">make things</span><br>
+that <span class="underline">make a difference</span>.</h2>
 
 I am security-savvy software developer. Who love to work on new technologies and complex problems. 
 
