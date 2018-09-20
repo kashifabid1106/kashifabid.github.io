@@ -1,7 +1,7 @@
 # SITE CONFIGURATION
 baseurl: "/Type-on-Strap"
-url: "https://sylhare.github.io"
-title: Type on Strap # site's title
+url: "https://kashifabid1106.github.io"
+title: Kashif Abid # site's title
 description: "A website with blog posts and pages" # used by search engines
 
 
@@ -22,14 +22,14 @@ theme_settings:
 
   # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: # Full email address, e.g. "kashifabid1106@gmail.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "sylhare"
+  github: "kashifabid1106"
   google_plus:
   instagram:
   keybase:
